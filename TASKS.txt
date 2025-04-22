@@ -1,0 +1,40 @@
+
+Tata Data Visualisation: Empowering Business with Effective Insights
+Forage Job Simulation — July 2024
+
+This document outlines the tasks completed during the virtual job simulation, structured to provide clear insights into the deliverables and project objectives.
+
+---
+
+Task 1: Business Question Preparation
+- Drafted a set of four business-critical questions each for:
+  • CEO — Focused on strategic growth, revenue trends, and operational efficiency.
+  • CMO — Focused on customer behavior, product performance, and marketing outcomes.
+- These questions guided the analytical and visual work in later tasks.
+
+Task 2: Visual Selection Strategy
+- Reviewed each business scenario based on the drafted questions.
+- Selected appropriate chart types to effectively communicate insights:
+  • Line charts for trends
+  • Bar charts for comparisons
+  • Pie/Donut charts for distribution
+  • Maps for regional performance
+
+Task 3: Dashboard Development (Power BI)
+- Performed data cleanup:
+  • Removed rows with Quantity < 1 or Unit Price < $0.
+- Created 4 separate visuals (1 per question) using Power BI.
+- Named each tab clearly as per question number.
+- Saved the final deliverable in .pbix format.
+
+Task 4: Executive Presentation
+- Created a 5-minute recorded presentation.
+- Covered:
+  • Initial data loading and cleaning
+  • Insights for each visual
+  • Strategic recommendations aligned with CEO and CMO goals
+- Focused on business impact, not just visual description.
+
+---
+
+This simulation provided hands-on experience in turning raw data into executive-level insights using Power BI and business storytelling.

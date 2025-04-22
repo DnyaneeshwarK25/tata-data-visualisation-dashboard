@@ -1,0 +1,14 @@
+question for the CEO
+
+which region has the most sales?
+which month/ year has the most sales?
+which are the 10 top products/customers in your store?
+what is the month-on-month performance, is it increasing/decreasing?
+what is the total revenue, customers, and number of products
+
+question for the CMO
+
+how many repeat customers do we have?
+what is the difference between the order value of repeat customers, is it increasing or decreasing?
+for repeat customers, what is the time gap between their first and repeat orders?
+which customers are most repetitive and how much revenue do we generate from them?
